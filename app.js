@@ -257,7 +257,7 @@ export default {
         {
           header: { alg: 'HS256', typ: 'JWT' },
           payload: { server: 'handshake', iat: 1713529557 },
-          verified: false
+          verified: true
         }
         */
         
